@@ -1,14 +1,7 @@
-// const curry = () => {};
+// Exercise 2
+// ------------------
+// Write curry function
 
-const curry = (fn) => {
-  const arity = fn.length;
-  return function curried(...args) {
-    if (args.length < arity) {
-      return curried.bind(null, ...args);
-    }
-
-    return fn.call(null, ...args);
-  };
-};
+const curry = () => {};
 
 module.exports = curry;

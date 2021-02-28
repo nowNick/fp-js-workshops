@@ -1,4 +1,6 @@
-// Ex1 Is the function below pure?
+// Exercise 1
+// ------------------
+// Is the function below pure?
 
 function sum(b) {
   return a + b;

@@ -1,5 +1,7 @@
-// Ex2 Purify the function below
-// Store result in mulResult
+// Exercise 2
+// ------------------
+// Purify the function below
+// Note: (store result in mulResult)
 
 const TEN = 10;
 let mulResult = 1;
